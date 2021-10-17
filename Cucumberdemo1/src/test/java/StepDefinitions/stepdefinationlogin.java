@@ -16,6 +16,7 @@ public class stepdefinationlogin
 	    public void validate_the_browser() throws Throwable {
 		 System.out.println("Validate the browser");
 		 System.out.println("Gitdemo is present");
+		 System.out.println("commited succesfully");
 		 
 	 }
 
