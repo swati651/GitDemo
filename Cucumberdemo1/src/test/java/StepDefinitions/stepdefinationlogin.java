@@ -15,6 +15,8 @@ public class stepdefinationlogin
 	 @Given("^Validate the browser$")
 	    public void validate_the_browser() throws Throwable {
 		 System.out.println("Validate the browser");
+		 System.out.println("Gitdemo is present");
+		 
 	 }
 
 	    @When("^Browser is triggered$")
