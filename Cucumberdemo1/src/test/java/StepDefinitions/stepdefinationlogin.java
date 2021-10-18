@@ -17,6 +17,8 @@ public class stepdefinationlogin
 		 System.out.println("Validate the browser");
 		 System.out.println("Gitdemo is present");
 		 System.out.println("commited succesfully");
+		 System.out.println("commited succesfully");
+		 System.out.println("commited succesfully");
 		 
 	 }
 
